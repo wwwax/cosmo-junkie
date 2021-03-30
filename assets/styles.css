@@ -1,0 +1,33 @@
+/* variables */
+
+/* reset */
+
+/* base styles */
+
+/* fonts */
+
+/* mobile styles */
+
+/* small tablet styles */
+
+@media screen and (min-width: 620px) {
+  .test {
+    color: red;
+  }
+}
+
+/* large tablets & laptops styles */
+
+@media screen and (min-width: 960px) {
+  .test {
+    color: green;
+  }
+}
+
+/* desktops styles */
+
+@media screen and (min-width: 1200px) {
+  .test {
+    color: blue;
+  }
+}
